@@ -7,6 +7,7 @@ function App() {
     <div>
       <h1>Meta Frontend Developer Capstone Starter Files.</h1>
       <h1>I cannot commit my changes to the git repository</h1>
+      <h1>This is my second commit</h1>
     </div>
   );
 }
